@@ -1,4 +1,12 @@
+body{
+  background-color: aqua;
+}
+
 .App {
+  text-align: center;
+}
+
+.formtable{
   text-align: center;
 }
 
@@ -32,6 +40,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
